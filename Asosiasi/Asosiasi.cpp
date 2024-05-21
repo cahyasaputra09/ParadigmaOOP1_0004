@@ -72,5 +72,5 @@ int main() {
 	varPasien1->cetakDokter();
 	varPasien2->cetakDokter();
 
-	return 0;
+	return 0;
 }
